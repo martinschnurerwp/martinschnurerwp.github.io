@@ -1,0 +1,14 @@
+- path: it
+  name: IT
+
+- path: sport
+  name: Šport
+
+- path: hudba
+  name: Hudba
+
+- path: zaujimavosti
+  name: Zaujímavosti
+
+- path: school
+  name: škola

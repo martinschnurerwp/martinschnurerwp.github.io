@@ -1,0 +1,147 @@
+body {
+  margin:0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-weight: 200;
+  font-size:28px;
+  margin-bottom:15px;
+}
+p {
+  font-weight: 200;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+
+.sm-image {
+  max-height:100px;
+}
+.md-image {
+  max-height:250px;
+}
+.lg-image {
+  max-height:350px;
+}
+
+.filter-option {
+  background-color: #eee;
+  border:1px solid #ccc;
+  padding:5px;
+}
+
+
+.menubar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.menubar li {
+    float: left;
+}
+
+.menubar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menubar li a:hover {
+    background-color:   #808080;
+}
+
+.menubar .active {
+    background-color: #4CAF50;
+}
+
+img.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+h1,h2,p, h3 {
+    text-align: center;
+}
+
+html, body {
+    text-align: center;
+  height: 100%;
+}
+
+
+.post li,p {
+    text-align: left;
+}
+
+.blog li {
+  text-align: left;
+}
+
+.fot  {
+  text-align: center;
+
+}
+
+.fot  a {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.fot h3 {
+  text-align: center;
+}
+
+.myFooter {
+  background-color: #484848;
+  color:white;
+  padding:30px;
+}
+
+.bordered {
+  border:1px solid black
+}
+
+.page-wrap {
+  min-height: 60vh;
+  margin-bottom:15px;
+}
+
+.myFooter a:link {
+  color: red;
+}
+
+.was-written-by{
+  color: #4894d5
+}
+
+table {
+  margin-bottom: 1rem;
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+td,th {
+  padding: .25rem .5rem;
+  border: 1px solid #e5e5e5;
+}
+
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color:   #808080;
+}
+.schoolmates li{
+  text-align: center;
+}
+
+.time-to-read {
+  color:red
+}

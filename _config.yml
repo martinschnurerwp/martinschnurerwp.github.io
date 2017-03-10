@@ -1,0 +1,7 @@
+title: Martin Schnurer
+email: martin.schnurer@gmail.com
+address: Cintorinska 242, 07614 Michaľany
+url: "https://github.com/martinschnurer/"
+github_username:  martinschnurer
+markdown: kramdown
+gems: [jekyll_inline_highlight, liquid_reading_time]

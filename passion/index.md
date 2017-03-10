@@ -42,9 +42,3 @@ Celkom ma baví fotenie scenérií ako západy slnka. Východ slnka sa mi bohuž
   {% endif %}
 {% endfor %}
 </div>
-
-
-
-{% loop_directory directory:"/assets/img" iterator:image filter:*.jpg sort:descending %}
-   <p>{{ image }}</p>
-{% endloop_directory %}

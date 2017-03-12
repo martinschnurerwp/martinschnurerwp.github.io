@@ -18,3 +18,4 @@ Webové sídlo obsahuje plugin pre predpoveď času potrebného na prečítanie 
     - T : použitie načitania obrazkov cez []() na mnohych miestach
     - F : použité v postoch na parsnutie času vytvorenia članku
     - F : použité spolu s pluginom POST layoute pre vypisovanie, kolko bude trvať čitanie članku
+  - použitý plugin: reading_time na predikciu času potrebného na prečitanie článku v blogu (layout post)

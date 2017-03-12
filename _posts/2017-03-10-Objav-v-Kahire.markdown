@@ -3,7 +3,7 @@ layout: post
 title:  "Objav v Kahire"
 date:   2017-03-10 16:42:13 +0100
 category: zaujimavosti
-source: ""
+source: "wikipedia.com"
 author: Martin Schnurer
 ---
 KÁHIRA - Egyptskí a nemeckí archeológovia objavili v podzemných vodách káhirskej chudobnej štvrti časti obrovskej starovekej sochy. Veria, že znázorňuje faraóna Ramessa II., ktorý Egyptu vládol pred 3000 rokmi. Na rovnakom mieste vtedy totiž stálo staroveké mesto Heliopolis, kde faraón postavil chrám slnečného kultu. Nález je podľa egyptského ministerstva pamiatok veľmi významný. Informovala o tom agentúra Reuters.

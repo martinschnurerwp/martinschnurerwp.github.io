@@ -4,8 +4,8 @@ title:  "O neuronovych sietach"
 date:   2017-03-08 10:53:13 +0100
 category:
 - it
-- hudba
-source: ""
+- zaujimavosti
+source: "wikipedia.com"
 author: Martin Schnurer
 ---
 

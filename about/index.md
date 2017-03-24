@@ -2,7 +2,9 @@
 layout: default
 title: O mne
 ---
-## Miesto narodenia:
+
+# O mne
+## Life.start("Martin Schnurer")
 
 Narodil som sa 14.07.1995 v Trebišove. Bol som urevané malé decko a vždy som musel mať to čo som chcel. Medzi moje záľuby patrí cyklistika, pozeranie seriálov a programovanie.
 
@@ -12,7 +14,7 @@ Potom som sa naštastie uvedomil a zistil, že svet nepatri iba mne
 
 <img src="/assets/img/me.png" class="lg-image centered">
 
-## Kde som študoval:
+## Výchova/Vzdelanie:
 
 
 
@@ -32,7 +34,6 @@ Celková cesta za deň predstavovala asi 2 hodiny, čo ma aj dosť unavovalo. Ak
 
 
 ## Dnes:
-
 Aktualne študujem na FIIT. Som odhodlaný vybojovať si titul Bakalár.
 Naposledy som tuto stranku upravoval:
 
